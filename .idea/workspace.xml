@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b364038-532d-438e-ba43-08c03d8f119e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/data/kanban.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/data/news.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/data/notes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/commands/KanbanManager.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/commands/NewsManager.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/commands/NoteManager.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OToRBM7OzdjEQnIle5gvyKhhl3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code\Java\POS\src\main\data" />
+      <recent name="C:\Code\Java\POS" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Run Kanban Update">
+    <configuration name="Run Kanban Create" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="POS" />
+      <option name="PROGRAM_PARAMETERS" value="kanban create test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run Kanban Update" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="POS" />
+      <option name="PROGRAM_PARAMETERS" value="kanban update &quot;Personal Organization System&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run Kanban View" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="POS" />
+      <option name="PROGRAM_PARAMETERS" value="kanban view &quot;Personal Organization System&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run Note Read" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="POS" />
+      <option name="PROGRAM_PARAMETERS" value="note read" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run Note Write" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="POS" />
+      <option name="PROGRAM_PARAMETERS" value="note write &quot;I am coding alone at 11&quot; &quot;Jenny is asleep and I am awake. I am coding on my POC project which is going pretty good. I enjoy making my own organization system. I just need to figure out a way to be able to access the same information from anywhere&quot;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run news" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="POS" />
+      <option name="PROGRAM_PARAMETERS" value="news" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="POS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Run Note Write" />
+      <item itemvalue="Application.Run Kanban Create" />
+      <item itemvalue="Application.Run Kanban View" />
+      <item itemvalue="Application.Run news" />
+      <item itemvalue="Application.Run Kanban Update" />
+      <item itemvalue="Application.Run Note Read" />
+      <item itemvalue="Application.Run" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b364038-532d-438e-ba43-08c03d8f119e" name="Changes" comment="" />
+      <created>1681593924129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681593924129</updated>
+    </task>
+    <servers />
+  </component>
+</project>
